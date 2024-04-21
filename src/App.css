@@ -1,0 +1,12 @@
+body {
+    @apply bg-blue-100;
+}
+
+.note{
+    max-height: 150px; 
+    overflow-x: auto; 
+}
+
+
+  
+  
